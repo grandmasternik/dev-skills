@@ -5,17 +5,18 @@
      margin: 0 auto;
      padding: 100px;
      text-align: center;
-     color:white;
      font-family: 'Anton',
      sans-serif;
  }
 
  h2{
      background: #93c57d;
+     color: white;
  }
 
  body{
      width: 100%;
+     color: black;
  }
  
  input, button {
