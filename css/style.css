@@ -16,10 +16,9 @@
 
  body{
      width: 100%;
-     color: black;
  }
  
- input, button {
+ #addButton {
     background-color: white;
     border-color: #93c47d;
     border-width: 3px;
@@ -31,7 +30,11 @@ input {
     color: black;
 }
 
-#remove{
+tr {
+    color: orange;
+}
+
+ button.remove {
     color: white;
     background-color: red;
     border: red;
