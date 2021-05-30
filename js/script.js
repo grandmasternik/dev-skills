@@ -1,7 +1,3 @@
-// $addSkillButton = $('#addSkillButton');
-// // addSkillButton.on('click', addNewSkill);
-
-
 $('#addButton').click(function (event) {
         let element = $('input').val();
         let newRow = `<tr>
